@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-07-28T07:21:20.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.5.3" etag="ayfBGnGIU6McBOne3Xl-" type="github"><diagram id="8J4z0SHDqrPwXqpZKByK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-28T07:28:05.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="Occ-5_vprzkPVdaD06fA" version="13.5.3" type="github">
+  <diagram id="8J4z0SHDqrPwXqpZKByK" name="Page-1">
+    <mxGraphModel dx="1426" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Noto Sans TC^https://fonts.googleapis.com/css?family=Noto+Sans+TC">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eq6cNmbirXBYx0DM1NS1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="1130" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="eq6cNmbirXBYx0DM1NS1-2" value="資產盤點開單" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eq6cNmbirXBYx0DM1NS1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Noto Sans TC;fontSize=13;" edge="1" parent="1" source="eq6cNmbirXBYx0DM1NS1-4" target="eq6cNmbirXBYx0DM1NS1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eq6cNmbirXBYx0DM1NS1-4" value="導出資產盤點EXCEL清單" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/119_Excel_logo_logos-128.png;fontFamily=Noto Sans TC;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eq6cNmbirXBYx0DM1NS1-5" value="增刪欄位&lt;br&gt;1.加入盤點日&lt;br&gt;2.加入生效欄位" style="whiteSpace=wrap;html=1;fontFamily=Noto Sans TC;fontSize=13;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="195" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
