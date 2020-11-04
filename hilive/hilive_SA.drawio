@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-04T21:48:58.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="lHHCXt6cAJQE8JnAlzvM" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-04T21:56:53.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="7thmthvWsA_AfkF6biKj" version="13.8.8" type="github" pages="2">
   <diagram id="7DXJRm-n8nbcEx_5CR6j" name="Page-1">
     <mxGraphModel dx="2377" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
           <mxGeometry x="-210" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7fnrjBrvbFBZ3waU3Qu5-9" value="1.類似electron的桌面應用程式，直接訪問活動網站&lt;br&gt;&lt;br&gt;2. 提供存取本機影音資源播放&lt;br&gt;&lt;br&gt;3.控制設定投屏的畫面" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="50" width="300" height="110" as="geometry" />
+          <mxGeometry x="-290" y="50" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7fnrjBrvbFBZ3waU3Qu5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7fnrjBrvbFBZ3waU3Qu5-14" target="7fnrjBrvbFBZ3waU3Qu5-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
